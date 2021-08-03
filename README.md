@@ -1,5 +1,5 @@
 # Game of Life
-John Horton Conway's Game of Life on infinite grid
+John Horton Conway's Game of Life on infinite grid.
 Made with Pygame.
 
 #### How to install:
